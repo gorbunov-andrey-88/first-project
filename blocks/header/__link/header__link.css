@@ -1,0 +1,11 @@
+.header__link {
+  font-size: 18px;
+  font-weight: normal;
+  color:#2f80ed;
+  text-decoration: none;
+  z-index: 1;
+}
+
+.header__link::after {
+  content: ' \1F862';
+}

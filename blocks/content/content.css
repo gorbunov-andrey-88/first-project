@@ -1,0 +1,15 @@
+.content__section_title {
+  margin: 0 auto 20px;
+}
+
+.content__section_subtitle {
+  margin: 0 auto 0;
+}
+
+.content__centered {
+  margin: auto;
+}
+
+.content__translate {
+  transform: translate(0px, 50px);
+}
